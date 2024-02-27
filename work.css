@@ -1,0 +1,29 @@
+.container {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+.container2 {
+  margin-top: 50px;
+  margin-left: 90px;
+  margin-right: 90px;
+  text-align: center;
+  border: 3px solid;
+  height: 600px;
+  padding-top: 15px;
+  font-size: large;
+  background: rgb(174,231,238);
+  background: radial-gradient(circle, rgba(174,231,238,1) 0%, rgba(33,120,223,1) 100%);
+}
+label.container3 {
+  color: rgb(64, 66, 203);
+}
+
+.container4 {
+  text-align: center;
+  color: azure;
+}
+
+
+
+
